@@ -1,6 +1,6 @@
 # Knowledge
 iOS 知识总结
 
-#### [Objective-C](https://github.com/HJDev/Knowledge/blob/master/Objective-C.md)
+#### [Objective-C](Objective-C.md)
 
 #### Swift
